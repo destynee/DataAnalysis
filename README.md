@@ -9,15 +9,10 @@ In 2021, what is the relationship between general government health expenditure 
 
 ### Methodology
 **Data Collection**: Compiled international datasets on GDP, government health expenditure, and women’s health indicators (e.g., life expectancy, maternal mortality, access to care).  
-
 **Data Cleaning**: Standardized country-level data, handled missing values, and ensured comparability across metrics.  
-
-**Grouping by GDP**: Classified countries into three tiers (top 5, middle 5, bottom 5 by GDP).
-
+**Grouping by GDP**: Classified countries into three tiers (top 5, middle 5, bottom 5 by GDP).  
 **Exploratory Statistics**: Calculated averages, variances, and correlations between expenditure and health outcomes.  
-
 **Visualization**: Produced scatterplots, bar charts, and comparative plots to highlight differences across GDP tiers  
-
 **Interpretation**: Assessed whether higher government spending consistently aligned with better women’s health outcomes across economic contexts.
 
 ### Key Findings
