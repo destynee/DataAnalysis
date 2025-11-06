@@ -31,7 +31,7 @@ A positive relationship exists between government health expenditure and womenâ€
 **Data limitations**  
 Missing or uneven reporting across countries constrained the scope of conclusions, underscoring the need for more standardized global health data.
 
-## Technologies / Resources
+## Technologies & Resources
 - [GDP (current US$)](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD)
 - [World Health Statistics 2024](https://data.who.int/)
 - [Matplotlib](https://github.com/matplotlib/matplotlib)
